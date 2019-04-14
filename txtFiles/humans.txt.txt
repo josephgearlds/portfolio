@@ -1,5 +1,4 @@
 /* THE TEAM */
-  Company: CIS 152
   Website: josephgearlds.github.io/portfolio
   Contact: josephjames73@live.com
 
