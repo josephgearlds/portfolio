@@ -1,6 +1,6 @@
 /* THE TEAM */
   Company: CIS 152
-  Website: josephgearlds.github.io
+  Website: josephgearlds.github.io/portfolio
   Contact: josephjames73@live.com
 
   Project Manager: Joseph Gearlds
@@ -13,6 +13,6 @@
   Contact: josephjames73@live.com
 
 /* SITE DETAILS */
- Url: josephgearlds.github.io
- Date Published: 12/10/2018
- Date of Latest Update: 12/10/2018
+ Url: josephgearlds.github.io/portfolio
+ Date Published: 4/14/2019
+ Date of Latest Update: 4/14/2019
